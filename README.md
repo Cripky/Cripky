@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJuM3Z0NDV3bjY5bHNhd2dsZ2xhNGhpY20xdzB4MGlleGJrdjhobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
     <h1>Hi there, I'm  Maxim! </h1>
     <h3>Android Developer from Yekaterinburg 💻</h3>
 </div>
@@ -9,12 +13,15 @@
   </a>
 </div>
 
+### Education
+- ITMO University, Electronic design and technology
+- Participated in the summer school of mobile development from Yandex
+
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- My favorite book is "Kotlin in Action". Always in front of my eyes.
+- 
+
+### Key skills
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpack" width="40" height="40" />&nbsp;
