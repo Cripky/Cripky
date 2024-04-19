@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
     <h1>Hi there, I'm  Maxim! </h1>
-    <h3>Android Developer from Yekaterinburg 💻</h3>
+    <h3>Android Developer from Yekaterinburg, Russia 💻</h3>
 </div>
 
 <div id="socials" align="center">
@@ -18,8 +18,7 @@
 - Participated in the summer school of mobile development from Yandex
 
 ### About me
-- My favorite book is "Kotlin in Action". Always in front of my eyes.
-- 
+- My favorite book is "Kotlin in Action". Always in front of my eyes
 
 ### Key skills
 
