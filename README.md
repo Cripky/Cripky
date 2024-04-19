@@ -1,5 +1,13 @@
-### Привет!
- Меня зовут Максим и я - Android разработчик 💻
+<div id="header" align="center">
+    <h1>Hi there, I'm  Maxim! </h1>
+    <h3>Android Developer from Yekaterinburg 💻</h3>
+</div>
+
+<div id="socials" align="center">
+  <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpack" width="40" height="40" />
