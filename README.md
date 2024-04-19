@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет!
+ Меня зовут Максим и я - Android разработчик 💻
+
+ 
 
 <!--
 **Cripky/Cripky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
