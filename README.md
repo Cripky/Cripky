@@ -3,8 +3,8 @@
 </div>
 
 <div id="header" align="center">
-    <h1>Hi there, I'm  Maxim! </h1>
-    <h3>Android Developer from Yekaterinburg, Russia 💻</h3>
+    <h1>Привет) Меня зовут Максим!</h1>
+    <h3>Junior Android разработчик из Екатеринбурга 💻</h3>
 </div>
 
 <div id="socials" align="center">
@@ -13,16 +13,18 @@
   </a>
 </div>
 
-### Education
-- ITMO University, Electronic design and technology
-- Participated in the summer school of mobile development from Yandex
+### Образование
+- Университет ИТМО, Конструирование и технология электроники
+- Принимал участие в летней школе мобильной разработки от Яндекса
 
 ### About me
-- My favorite book is "Kotlin in Action". Always in front of my eyes
+- Любимая книга - "Kotlin в действии". Всегда перед глазами, использую как справочник по языку
 
 ### Tech stack 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpack" width="40" height="40" />&nbsp;
+
+ [![codewars](https://www.codewars.com/users/Cripky/badges/large)](https://www.codewars.com/users/Cripky)
 
 <!--
 - 🔭 I’m currently working on ...
