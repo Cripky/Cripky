@@ -1,7 +1,8 @@
 ### Привет!
  Меня зовут Максим и я - Android разработчик 💻
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40" />&nbsd
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpack" width="40" height="40" />&nbsd
 
 <!--
 **Cripky/Cripky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
