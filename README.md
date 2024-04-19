@@ -20,8 +20,9 @@
 ### About me
 - My favorite book is "Kotlin in Action". Always in front of my eyes
 
-### Key skills
+### Tech stack
 
+ ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpack" width="40" height="40" />&nbsp;
 
